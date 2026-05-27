@@ -1,11 +1,10 @@
 Initializing login file - updated from another developer
 
 New change
-One additional change
 
 This Changes are from the feature/login 
 
-Another change !
+Another change
 
 Another change in the file.
 
