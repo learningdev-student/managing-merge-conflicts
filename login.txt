@@ -12,6 +12,7 @@ Last change.
 
 New line
 
+Changes related to login setup
 
 Another change in the file.
 
