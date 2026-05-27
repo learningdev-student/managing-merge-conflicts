@@ -1,5 +1,6 @@
 # This file is related to all settings setup
 
 # This part is for login setup
+Add some logic related to login setup
 
 # This part is for DB setup
