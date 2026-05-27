@@ -1,1 +1,5 @@
-Adding changes to create merge conflict
+Initializing login file
+
+This Changes are from the Feature Login branch
+
+Another change in the file
