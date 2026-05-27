@@ -9,3 +9,6 @@ New line - adding change!
 Another change in the file.
 
 Last change.
+Another change in the file.
+
+Last change !
