@@ -1,5 +1,11 @@
 Initializing login file - updated from another developer
 
-This Changes are from the Feature Login branch
+New change
 
-Another change in the file - confirmed
+This Changes are from the feature/login 
+
+Another change
+
+Another change in the file.
+
+Last change
