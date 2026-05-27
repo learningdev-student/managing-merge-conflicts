@@ -4,8 +4,6 @@ New change
 
 This Changes are from the feature/login 
 
-New line
-
 Another change in the file.
 
-Last change
+Last change !
