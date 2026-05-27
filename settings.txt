@@ -1,6 +1,0 @@
-This settings file contains settings for different services
-
-# This section below is for login setup connections
-
-# This section below is for DB setup connections
-
