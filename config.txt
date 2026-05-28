@@ -1,7 +1,7 @@
-# This file is related to configs of the project
+# This file is related to configs of the project!!!
 
-# This part is for login configs
+# This part is for login configs of the REPO
 Adding some logic related to configs of the login
 
-# This part is for DB configs
+# This part is for DB configs of the REPO
 Adding some logic related to DB connection configs
